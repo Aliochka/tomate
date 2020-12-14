@@ -7,7 +7,8 @@ name = "pypi"
 pandas = "*"
 jupyter = "*"
 matplotlib = "*"
-numpy = "*"
+geopandas = "*"
+descartes = "*"
 
 [dev-packages]
 
